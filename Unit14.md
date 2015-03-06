@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../../../
+previous: ../Unit13
+---
 **Unit 14: Final Exam** <span id="14"></span> 
 -   **Final Exam: The Saylor Foundation's PSYCH305 Final Exam**
     Link: The Saylor Foundation's [PSYCH305 Final

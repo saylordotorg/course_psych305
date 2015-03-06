@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Social Learning Theory** <span id="10"></span> 
 This unit will also introduce you to vicarious learning, or the process
 of learning that takes place when one observes or hears of another’s

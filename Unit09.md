@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Behaviorism and Real World Applications** <span
 id="9"></span> 
 Although a behaviorism approach offers understanding of the

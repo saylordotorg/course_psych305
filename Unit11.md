@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Social Learning Theory and Applications** <span
 id="11"></span> 
 Social learning theory has an emphasis on the contexts of development. 

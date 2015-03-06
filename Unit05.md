@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Behaviorism: Basic Concepts and Processes** <span
 id="5"></span> 
 Behaviorism, a specific subfield of psychology, has much to contribute

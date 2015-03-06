@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: J.B. Watson: The Original Behaviorist** <span id="7"></span> 
 The work of John Watson is fraught with controversy due to his
 questionable methods. Prior to the work of Watson, most research on

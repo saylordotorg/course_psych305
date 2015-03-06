@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Classical Conditioning vs. Operant Conditioning** <span
 id="6"></span> 
 Although learning theory has expanded far beyond classical conditioning

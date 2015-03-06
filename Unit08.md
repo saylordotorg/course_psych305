@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: B.F. Skinner's Operant Conditioning** <span id="8"></span> 
 We will now turn to a deeper look at a second type of conditioning:
 operant conditioning.    This unit will focus on the work of B. F.

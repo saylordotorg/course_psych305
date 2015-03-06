@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Philosophy and Psychology: Thinking about Learning** <span
 id="2"></span> 
 Learning theories may be thought of as a progression from philosophical

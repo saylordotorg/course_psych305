@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: E.L. Thorndike: The Original Connectionism** <span
 id="3"></span> 
 E.L. Thorndike is an important figure in learning theory.  Thorndike had

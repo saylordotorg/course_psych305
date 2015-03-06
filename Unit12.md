@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit13
+previous: ../Unit11
+---
 **Unit 12: Cognitive Theory** <span id="12"></span> 
 Cognitive theory emphasis how development affects cognition, or the
 thinking process.  Naturally, this is an important aspect of learning. 

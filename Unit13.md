@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit14
+previous: ../Unit12
+---
 **Unit 13: Real World Applications** <span id="13"></span> 
 As educated consumers, we should strive to take our education and
 effectively apply it to the everyday and real world applications. 

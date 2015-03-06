@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Basic Concepts** <span id="1"></span> 
 *Most of us think of learning in terms of traditional schooling and
 education.  While learning theory includes educational learning,

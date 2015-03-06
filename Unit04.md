@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH305: The Psychology of Learning and Behavior"
+course_description: "A survey of relevant theoretical and empirical approaches within psychology as they relate to human learning and behavior."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Pavlov Classical Conditioning** <span id="4"></span> 
 Conditioning refers to learning that takes place over a number of
 trials.  In this unit, we will learn about Pavlovian conditioning (also
