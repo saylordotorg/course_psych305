@@ -41,10 +41,10 @@ Upon successful completion of this unit, the student will be able to:
     page above.
 
 **10.2 “Bandura’s Bobo Doll and Modeling”** <span id="10.2"></span> 
--   **Reading: Primary Education Oasis’ “Bandura and the Bobo Doll
+-   **Reading: k5ChalkBox’s “Bandura and the Bobo Doll
     Experiments”**
-    Link: Primary Education Oasis’ “[Bandura and the Bobo Doll
-    Experiment”](http://www.primary-education-oasis.com/social-learning-theory.html) (HTML
+    Link: k5ChalkBox’s “[Bandura and the Bobo Doll
+    Experiment”](http://www.k5chalkbox.com/social-learning-theory.html) (HTML
     and Flash Video)  
         
      Instructions: Please read this entire webpage and view the brief
