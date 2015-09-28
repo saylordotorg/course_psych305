@@ -140,3 +140,4 @@ are strongly encouraged.
 - [Unit 12](https://legacy.saylor.org/psych305/Unit12/)
 - [Unit 13](https://legacy.saylor.org/psych305/Unit13/)
 - [Unit 14](https://legacy.saylor.org/psych305/Unit14/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH305/PSYCH305-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH305/PSYCH305-FinalExam-Answers.html)
