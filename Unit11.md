@@ -59,7 +59,7 @@ Upon successful completion of this unit, the student will be able to:
         
      Link: National Institute of Health’s "[The Role of the Family
     Context in Development of Emotion
-    Regulation](https://resources.saylor.org/archived/wp-content/uploads/2012/01/PSYCH305-11.2.pdf)"
+    Regulation](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/PSYCH305-11.2.pdf)"
     (PDF)  
         
      Instructions: Please read the entire article. This article examines

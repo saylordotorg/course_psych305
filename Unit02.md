@@ -48,7 +48,7 @@ Upon successful completion of this unit, the student will be able to:
     Non-experimental Research”**
     Link: ResearchMethodsinPsychology.com’s “[Experimental and
     Non-experimental
-    Research](https://resources.saylor.org/archived/wp-content/uploads/2012/01/PSYCH305-2.1.pdf)”
+    Research](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/PSYCH305-2.1.pdf)”
     (PDF)  
         
      Instructions: Pay special attention to the pivotal strengths and
