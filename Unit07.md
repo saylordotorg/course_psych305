@@ -46,7 +46,7 @@ Upon successful completion of this unit, the student will be able to:
     Behaviorist Views it”**
     Link: York University: John Watson’s “[Psychology as the Behaviorist
     Views
-    It](http://www.saylor.org/site/wp-content/uploads/2012/01/PSYCH305-7.1.pdf)”
+    It](https://resources.saylor.org/archived/wp-content/uploads/2012/01/PSYCH305-7.1.pdf)”
     (PDF)  
         
      Instructions: This is a long paper written by Watson.  In it you
